@@ -1,0 +1,26 @@
+
+.btnSearch{
+    color: white;
+    background-color: #EE9B00;
+    border-radius: 5px;
+    font-weight: 500;
+    align-items: center;
+}
+
+.btnSearch:hover{
+    background-color:white;
+    color: #EE9B00;
+}
+
+.form{
+    display:inline-block;
+}
+.input{
+    border-radius:5px
+}
+
+@media (max-width:415px){
+  .form{
+      margin-bottom: 1rem;
+  }
+  }
